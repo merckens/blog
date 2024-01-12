@@ -1,6 +1,6 @@
 ---
 title: Kiwis
-date: 2024-01-12T00:35:45.597Z
+date: 2018-08-22T23:35:45.597Z
 author: ted
 ---
 Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
